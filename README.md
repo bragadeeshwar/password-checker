@@ -19,3 +19,12 @@ This is a Python command-line tool that checks if your password has been exposed
 ```bash
 pip install requests
 pip install sys
+
+🚀 How to Run
+python passchecker.py yourpassword here
+python passchecker.py yourpassword here
+
+
+
+
+
